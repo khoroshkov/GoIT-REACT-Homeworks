@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoIT-REACT-Homeworks/static/css/main.4c547a79.chunk.css",
+    "main.js": "/GoIT-REACT-Homeworks/static/js/main.b64ad3ea.chunk.js",
+    "main.js.map": "/GoIT-REACT-Homeworks/static/js/main.b64ad3ea.chunk.js.map",
+    "runtime-main.js": "/GoIT-REACT-Homeworks/static/js/runtime-main.968a178c.js",
+    "runtime-main.js.map": "/GoIT-REACT-Homeworks/static/js/runtime-main.968a178c.js.map",
+    "static/js/2.25b66531.chunk.js": "/GoIT-REACT-Homeworks/static/js/2.25b66531.chunk.js",
+    "static/js/2.25b66531.chunk.js.map": "/GoIT-REACT-Homeworks/static/js/2.25b66531.chunk.js.map",
+    "index.html": "/GoIT-REACT-Homeworks/index.html",
+    "precache-manifest.63bc469b03c7bf752654621823c10a86.js": "/GoIT-REACT-Homeworks/precache-manifest.63bc469b03c7bf752654621823c10a86.js",
+    "service-worker.js": "/GoIT-REACT-Homeworks/service-worker.js",
+    "static/css/main.4c547a79.chunk.css.map": "/GoIT-REACT-Homeworks/static/css/main.4c547a79.chunk.css.map",
+    "static/js/2.25b66531.chunk.js.LICENSE": "/GoIT-REACT-Homeworks/static/js/2.25b66531.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.968a178c.js",
+    "static/js/2.25b66531.chunk.js",
+    "static/css/main.4c547a79.chunk.css",
+    "static/js/main.b64ad3ea.chunk.js"
+  ]
+}
