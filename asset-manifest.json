@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/GoIT-REACT-Homeworks/deploy/static/css/main.935e63c4.chunk.css",
-    "main.js": "/GoIT-REACT-Homeworks/deploy/static/js/main.542c97fe.chunk.js",
-    "main.js.map": "/GoIT-REACT-Homeworks/deploy/static/js/main.542c97fe.chunk.js.map",
-    "runtime-main.js": "/GoIT-REACT-Homeworks/deploy/static/js/runtime-main.9b218f5e.js",
-    "runtime-main.js.map": "/GoIT-REACT-Homeworks/deploy/static/js/runtime-main.9b218f5e.js.map",
-    "static/js/2.ef3afd47.chunk.js": "/GoIT-REACT-Homeworks/deploy/static/js/2.ef3afd47.chunk.js",
-    "static/js/2.ef3afd47.chunk.js.map": "/GoIT-REACT-Homeworks/deploy/static/js/2.ef3afd47.chunk.js.map",
-    "index.html": "/GoIT-REACT-Homeworks/deploy/index.html",
-    "precache-manifest.7ac8a922e435b9f7a69258e0d3c0e940.js": "/GoIT-REACT-Homeworks/deploy/precache-manifest.7ac8a922e435b9f7a69258e0d3c0e940.js",
-    "service-worker.js": "/GoIT-REACT-Homeworks/deploy/service-worker.js",
-    "static/css/main.935e63c4.chunk.css.map": "/GoIT-REACT-Homeworks/deploy/static/css/main.935e63c4.chunk.css.map",
-    "static/js/2.ef3afd47.chunk.js.LICENSE.txt": "/GoIT-REACT-Homeworks/deploy/static/js/2.ef3afd47.chunk.js.LICENSE.txt"
+    "main.css": "/GoIT-REACT-Homeworks/static/css/main.935e63c4.chunk.css",
+    "main.js": "/GoIT-REACT-Homeworks/static/js/main.542c97fe.chunk.js",
+    "main.js.map": "/GoIT-REACT-Homeworks/static/js/main.542c97fe.chunk.js.map",
+    "runtime-main.js": "/GoIT-REACT-Homeworks/static/js/runtime-main.e12ac1b5.js",
+    "runtime-main.js.map": "/GoIT-REACT-Homeworks/static/js/runtime-main.e12ac1b5.js.map",
+    "static/js/2.ef3afd47.chunk.js": "/GoIT-REACT-Homeworks/static/js/2.ef3afd47.chunk.js",
+    "static/js/2.ef3afd47.chunk.js.map": "/GoIT-REACT-Homeworks/static/js/2.ef3afd47.chunk.js.map",
+    "index.html": "/GoIT-REACT-Homeworks/index.html",
+    "precache-manifest.a2834f78114557142c008363dfbceb27.js": "/GoIT-REACT-Homeworks/precache-manifest.a2834f78114557142c008363dfbceb27.js",
+    "service-worker.js": "/GoIT-REACT-Homeworks/service-worker.js",
+    "static/css/main.935e63c4.chunk.css.map": "/GoIT-REACT-Homeworks/static/css/main.935e63c4.chunk.css.map",
+    "static/js/2.ef3afd47.chunk.js.LICENSE.txt": "/GoIT-REACT-Homeworks/static/js/2.ef3afd47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b218f5e.js",
+    "static/js/runtime-main.e12ac1b5.js",
     "static/js/2.ef3afd47.chunk.js",
     "static/css/main.935e63c4.chunk.css",
     "static/js/main.542c97fe.chunk.js"
