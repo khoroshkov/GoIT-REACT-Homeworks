@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PhoneBook/static/css/main.935e63c4.chunk.css",
-    "main.js": "/PhoneBook/static/js/main.542c97fe.chunk.js",
-    "main.js.map": "/PhoneBook/static/js/main.542c97fe.chunk.js.map",
-    "runtime-main.js": "/PhoneBook/static/js/runtime-main.48262d68.js",
-    "runtime-main.js.map": "/PhoneBook/static/js/runtime-main.48262d68.js.map",
-    "static/js/2.ef3afd47.chunk.js": "/PhoneBook/static/js/2.ef3afd47.chunk.js",
-    "static/js/2.ef3afd47.chunk.js.map": "/PhoneBook/static/js/2.ef3afd47.chunk.js.map",
-    "index.html": "/PhoneBook/index.html",
-    "precache-manifest.ec4b38d5abc14b8ba7e29c3b0c6dab32.js": "/PhoneBook/precache-manifest.ec4b38d5abc14b8ba7e29c3b0c6dab32.js",
-    "service-worker.js": "/PhoneBook/service-worker.js",
-    "static/css/main.935e63c4.chunk.css.map": "/PhoneBook/static/css/main.935e63c4.chunk.css.map",
-    "static/js/2.ef3afd47.chunk.js.LICENSE.txt": "/PhoneBook/static/js/2.ef3afd47.chunk.js.LICENSE.txt"
+    "main.css": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/css/main.935e63c4.chunk.css",
+    "main.js": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/main.542c97fe.chunk.js",
+    "main.js.map": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/main.542c97fe.chunk.js.map",
+    "runtime-main.js": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/runtime-main.d76f4773.js",
+    "runtime-main.js.map": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/runtime-main.d76f4773.js.map",
+    "static/js/2.ef3afd47.chunk.js": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/2.ef3afd47.chunk.js",
+    "static/js/2.ef3afd47.chunk.js.map": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/2.ef3afd47.chunk.js.map",
+    "index.html": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/index.html",
+    "precache-manifest.1c1dde3db561148ee1d885817cc628a9.js": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/precache-manifest.1c1dde3db561148ee1d885817cc628a9.js",
+    "service-worker.js": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/service-worker.js",
+    "static/css/main.935e63c4.chunk.css.map": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/css/main.935e63c4.chunk.css.map",
+    "static/js/2.ef3afd47.chunk.js.LICENSE.txt": "/GoIT-REACT-Homeworks/goit-react-hw-02-phonebook/static/js/2.ef3afd47.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48262d68.js",
+    "static/js/runtime-main.d76f4773.js",
     "static/js/2.ef3afd47.chunk.js",
     "static/css/main.935e63c4.chunk.css",
     "static/js/main.542c97fe.chunk.js"
